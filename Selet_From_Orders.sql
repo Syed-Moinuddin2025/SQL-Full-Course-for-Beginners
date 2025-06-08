@@ -1,1 +1,1 @@
-SELECT All FROM Orders
+SELECT * FROM Orders

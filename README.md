@@ -65,18 +65,15 @@ This is the working database where all exercises and examples will be executed.
 - Develop a clean **GitHub portfolio** project
 
 ---
-
-## 📄 License
-
-This project is for educational use. Feel free to fork and build on it.
-
----
-
 ## ▶️ YouTube Source
 
 This course is based on practical SQL explained in this YouTube post:  
 
 📺 [Watch on YouTube](http://youtube.com/post/UgkxqugNPrRXtLYjZC888ZoDnhcrjimtXoZ8?si=hAMLf6pDe2esuDyj)
+
+## 📄 License
+
+### This project is for educational use. Feel free to fork and build on it.
 
 ---
 

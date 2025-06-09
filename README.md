@@ -71,24 +71,18 @@ This course is based on practical SQL explained in this YouTube post:
 
 📺 [Watch on YouTube](http://youtube.com/post/UgkxqugNPrRXtLYjZC888ZoDnhcrjimtXoZ8?si=hAMLf6pDe2esuDyj)
 
-## 📄 License
-
-### This project is for educational use. Feel free to fork and build on it.
-
----
-
 ---
 
 ## ☕ Support My Work
 
-If this project helps you learn or build something cool, consider supporting my work!  
+### If this project helps you learn or build something cool, consider supporting my work!  
 
-Your support keeps me motivated and helps me continue sharing quality content. 🙌
+### Your support keeps me motivated and helps me continue sharing quality content. 🙌
 
 [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_A_Coffee-yellow?style=flat-square)](https://coff.ee/syedmoin)  
 [![PayPal](https://img.shields.io/badge/💰-Donate_via_PayPal-blue?style=flat-square)](https://paypal.me/syedmoinuddin101)
 
-Thank you so much! 🙏
+## Thank you so much! 🙏
 
 
 ## 🧑‍💻 Author
@@ -99,8 +93,11 @@ Thank you so much! 🙏
 ---
 
 ## ✅ License
-This project is for educational purposes only.
+
+### This project is intended for educational purposes only.  
+### Feel free to fork it, explore the code, and build upon it as you learn.
+
 
 ---
 
-Happy Learning! 🚀
+## Happy Learning! 🚀

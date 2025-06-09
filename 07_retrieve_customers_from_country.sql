@@ -20,3 +20,9 @@ WHERE country = 'UAE'
 SELECT first_name , country 
 FROM customers
 WHERE country = 'USA'
+
+SELECT 
+    first_name,
+    country,
+    score
+FROM customers

@@ -26,16 +26,16 @@ This is the working database where all exercises and examples will be executed.
 
 ## 📁 Project File Structure
 
-| No. | Filename                                         | Description                                           |
-|-----|--------------------------------------------------|-------------------------------------------------------|
-| 01  | `01_create_table_customers.sql`                  | Creates the `customers` table                        |
-| 02  | `02_create_table_orders.sql`                     | Creates the `orders` table                           |
-| 03  | `03_insert_data_into_customers.sql`              | Inserts sample data into `customers`                 |
-| 04  | `04_insert_data_into_orders.sql`                 | Inserts sample data into `orders`                    |
-| 05  | `05_select_from_customers.sql`                   | Basic SELECT queries from the `customers` table      |
-| 06  | `06_select_from_orders.sql`                      | Basic SELECT queries from the `orders` table         |
-| 07  | `07_retrieve_customers_from_country.sql`         | Filters customers based on the `country` field       |
-| 08  | `08_retrieve_customers_from_country_results.ipynb` | Jupyter Notebook showing queries and their outputs |
+| No. | Filename                                           | Description                                           |
+|-----|----------------------------------------------------|-------------------------------------------------------|
+| 01  | `01_create_table_customers.sql`                    | Creates the `customers` table                        |
+| 02  | `02_create_table_orders.sql`                       | Creates the `orders` table                           |
+| 03  | `03_insert_data_into_customers.sql`                | Inserts sample data into `customers`                 |
+| 04  | `04_insert_data_into_orders.sql`                   | Inserts sample data into `orders`                    |
+| 05  | `05_select_from_customers.sql`                     | Basic SELECT queries from the `customers` table      |
+| 06  | `06_select_from_orders.sql`                        | Basic SELECT queries from the `orders` table         |
+| 07  | `07_where_clause_filtering_customers.sql`          | Uses `WHERE` clause to filter customers              |
+| 08  | `08_where_clause_filtering_results.ipynb`          | Jupyter Notebook showing filtering query outputs     |
 
 ---
 

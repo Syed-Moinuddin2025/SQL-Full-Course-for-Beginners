@@ -24,24 +24,51 @@ This is the working database where all exercises and examples will be executed.
 
 ---
 
-## 📂 Folder Structure
-```
-SQL-Full-Course-For-Beginners/
-│
-├── README.md
-├── create_database.sql
-├── tables/
-│   ├── create_tables.sql
-│   ├── insert_data.sql
-│   └── alter_tables.sql
-│
-├── queries/
-│   ├── basic_queries.sql
-│   ├── filter_queries.sql
-│   ├── aggregate_functions.sql
-│   ├── join_examples.sql
-│   └── practice_exercises.sql
-```
+## 📁 Project File Structure
+
+| No. | Filename                                         | Description                                           |
+|-----|--------------------------------------------------|-------------------------------------------------------|
+| 01  | `01_create_table_customers.sql`                  | Creates the `customers` table                        |
+| 02  | `02_create_table_orders.sql`                     | Creates the `orders` table                           |
+| 03  | `03_insert_data_into_customers.sql`              | Inserts sample data into `customers`                 |
+| 04  | `04_insert_data_into_orders.sql`                 | Inserts sample data into `orders`                    |
+| 05  | `05_select_from_customers.sql`                   | Basic SELECT queries from the `customers` table      |
+| 06  | `06_select_from_orders.sql`                      | Basic SELECT queries from the `orders` table         |
+| 07  | `07_retrieve_customers_from_country.sql`         | Filters customers based on the `country` field       |
+| 08  | `08_retrieve_customers_from_country_results.ipynb` | Jupyter Notebook showing queries and their outputs |
+
+---
+
+## 🚀 How to Use
+
+1. Open Azure Data Studio or SQL Server Management Studio.
+2. Run the `.sql` files in sequential order for full setup.
+3. Use the `.ipynb` file to review query outputs interactively.
+
+---
+
+## 🧰 Tools Used
+
+- Microsoft SQL Server
+- Azure Data Studio
+- Jupyter Notebook (for visual output)
+- GitHub (for version control and sharing)
+
+---
+
+## 📌 Goals of the Project
+
+- Practice **SQL table creation and constraints**
+- Learn **data insertion** and bulk entry techniques
+- Build **query skills** using SELECT, WHERE, and filters
+- Explore **Jupyter Notebook integration** for SQL
+- Develop a clean **GitHub portfolio** project
+
+---
+
+## 📄 License
+
+This project is for educational use. Feel free to fork and build on it.
 
 ---
 

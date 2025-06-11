@@ -1,5 +1,5 @@
-# 📘 SQL Full Course for Beginners
-# 📘 Learn SQL with Practical Projects
+# 📘 SQL Full Course for Beginners (# 📘 Learn SQL with Practical Projects)
+
 
 Welcome to the **SQL Full Course for Beginners** repository! This project is designed to help you practice real SQL queries explained through YouTube tutorials. You’ll be working with a sample database named **MyDatabase**.
 > ✅ **Built for learners who prefer structured, example-driven SQL practice!**

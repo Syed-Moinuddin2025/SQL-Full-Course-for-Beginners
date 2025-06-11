@@ -1,22 +1,25 @@
 # 📘 SQL Full Course for Beginners
+# 📘 Learn SQL with Practical Projects
 
 Welcome to the **SQL Full Course for Beginners** repository! This project is designed to help you practice real SQL queries explained through YouTube tutorials. You’ll be working with a sample database named **MyDatabase**.
+> ✅ **Built for learners who prefer structured, example-driven SQL practice!**
 
-## 📌 About This Repository
-
-This repository contains step-by-step SQL queries for beginners covering basic to intermediate concepts such as:
-- Creating and using databases
-- Creating and altering tables
-- Inserting, updating, and deleting records
-- Filtering data using WHERE, LIKE, BETWEEN
-- Sorting and grouping data
-- Using aggregate functions (SUM, AVG, COUNT, etc.)
-- JOIN operations
-
-> 💡 All queries demonstrated in the YouTube course are replicated here for easy reference and hands-on practice.
+## 🎯 What's Inside?
+This project includes:
+- ✅ Table creation scripts
+- ✅ Sample datasets
+- ✅ SQL queries (`SELECT`, `WHERE`, `ORDER BY`, `GROUP BY`, `JOIN`)
+- ✅ Jupyter Notebooks with query results
+- ✅ Beginner to intermediate-level examples
 
 ---
+## 🚀 Key Features
 
+- 📂 Organized SQL practice files (step-by-step)
+- 📒 Jupyter Notebooks with queries + results (interactive learning)
+- 🗃️ Realistic `customers` and `orders` data for practice
+- 💡 Progressive difficulty (Beginner → Intermediate)
+---
 ## 🛠️ Database Name
 **`MyDatabase`**
 
@@ -26,24 +29,31 @@ This is the working database where all exercises and examples will be executed.
 
 ## 📁 Project File Structure
 
-| No. | Filename                                           | Description                                           |
-|-----|----------------------------------------------------|-------------------------------------------------------|
-| 01  | `01_create_table_customers.sql`                    | Creates the `customers` table                        |
-| 02  | `02_create_table_orders.sql`                       | Creates the `orders` table                           |
-| 03  | `03_insert_data_into_customers.sql`                | Inserts sample data into `customers`                 |
-| 04  | `04_insert_data_into_orders.sql`                   | Inserts sample data into `orders`                    |
-| 05  | `05_select_from_customers.sql`                     | Basic SELECT queries from the `customers` table      |
-| 06  | `06_select_from_orders.sql`                        | Basic SELECT queries from the `orders` table         |
-| 07  | `07_where_clause_filtering_customers.sql`          | Uses `WHERE` clause to filter customers              |
-| 08  | `08_where_clause_filtering_results.ipynb`          | Jupyter Notebook showing filtering query outputs     |
-
+| No. | Filename                                           | Description                                                     |
+|-----|----------------------------------------------------|-----------------------------------------------------------------|
+| 01  | `01_create_table_customers.sql`                    | Creates the `customers` table with relevant fields              |
+| 02  | `02_create_table_orders.sql`                       | Creates the `orders` table with primary key and foreign key     |
+| 03  | `03_insert_data_into_customers.sql`                | Inserts sample data into the `customers` table                  |
+| 04  | `04_insert_data_into_orders.sql`                   | Inserts sample data into the `orders` table                     |
+| 05  | `05_select_from_customers.sql`                     | Basic `SELECT` queries from the `customers` table               |
+| 06  | `06_select_from_orders.sql`                        | Basic `SELECT` queries from the `orders` table                  |
+| 07  | `07_where_clause_filtering_customers.sql`          | Filtering data using `WHERE` clause in the `customers` table    |
+| 08  | `08_where_clause_filtering_results.ipynb`          | Jupyter Notebook with filtering queries and output              |
+| 09  | `09_order_by_clause_sorting.sql`                   | `ORDER BY` queries for sorting customer and order data          |
+| 10  | `10_order_by_clause_sorting_results.ipynb`         | Jupyter Notebook with `ORDER BY` queries and outputs            |
+| 11  | `11_group_by_clause_summary.sql`                   | Aggregation queries using `GROUP BY` on customers/orders        |
+| 12  | `12_group_by_clause_summary_results.ipynb`         | Jupyter Notebook showing grouped summary results                |
+| 13  | `13_join_customers_orders_with_sorting.sql`        | Joins between customers and orders with `ORDER BY` clause       |
+| 14  | `14_join_results.ipynb`                            | Jupyter Notebook showing join queries and results               |
 ---
 
 ## 🚀 How to Use
 
-1. Open Azure Data Studio or SQL Server Management Studio.
-2. Run the `.sql` files in sequential order for full setup.
-3. Use the `.ipynb` file to review query outputs interactively.
+📥 Open the .sql files in Azure Data Studio, SQL Server Management Studio, or any preferred SQL client.
+
+▶️ Run the .sql files in sequential order (from 01_create_table_customers.sql to the last one) to create tables, insert data, and practice queries.
+
+🧪 Use the .ipynb Jupyter Notebook files to interactively view query results and learn visually.
 
 ---
 
@@ -66,8 +76,12 @@ This is the working database where all exercises and examples will be executed.
 
 ---
 ## ▶️ YouTube Source
+▶️ YouTube Source
+💡 All SQL queries demonstrated in the YouTube course are replicated here for easy reference and hands-on practice.
 
-This course is based on practical SQL explained in this YouTube post:  
+This project is based on the practical SQL lessons covered in the following YouTube post:
+
+📺 Watch on YouTube
 
 📺 [Watch on YouTube](http://youtube.com/post/UgkxqugNPrRXtLYjZC888ZoDnhcrjimtXoZ8?si=hAMLf6pDe2esuDyj)
 
@@ -92,12 +106,18 @@ This course is based on practical SQL explained in this YouTube post:
 
 ---
 
-## ✅ License
+## 📌 License & Contribution
 
 ### This project is intended for educational purposes only.  
 ### Feel free to fork it, explore the code, and build upon it as you learn.
+---
+## 💡 Want to Contribute?
 
+Pull requests and ideas for more beginner-friendly examples are always welcome!  
+Let’s help more people learn SQL the right way. 🔍
 
 ---
-
+💬 Feedback or Suggestions?
+If you find this helpful or have suggestions for improvements, feel free to open an issue or share your thoughts.
+ 
 ## Happy Learning! 🚀

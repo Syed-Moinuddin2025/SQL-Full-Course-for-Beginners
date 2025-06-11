@@ -76,12 +76,10 @@ This is the working database where all exercises and examples will be executed.
 
 ---
 ## ▶️ YouTube Source
-▶️ YouTube Source
+
 💡 All SQL queries demonstrated in the YouTube course are replicated here for easy reference and hands-on practice.
 
 This project is based on the practical SQL lessons covered in the following YouTube post:
-
-📺 Watch on YouTube
 
 📺 [Watch on YouTube](http://youtube.com/post/UgkxqugNPrRXtLYjZC888ZoDnhcrjimtXoZ8?si=hAMLf6pDe2esuDyj)
 
